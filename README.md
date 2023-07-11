@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ty-Ap
 - 👀 I’m interested in Software Engineering and creating collaborative inclusive worlds
-- 🌱 I’m currently learning full stack JS
+- 🤓 I've forgotten more code than many ever learn. 
 - 📫 Reach me @ tyjamesramblings@gmail.com
 
 <!---
