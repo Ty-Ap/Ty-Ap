@@ -1,5 +1,5 @@
 - 👋 Hi, I’m P4R451TE
-- 👀 I’m interested in Software Engineering, cybersecurity and creating collaborative inclusive worlds
+- 👀 I’m interested in Cybersecurity, Software Engineering, and creating collaborative inclusive worlds
 - 📫 Reach me @ tyjamesramblings@gmail.com
 
 <!---
