@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ty-Ap
+- 👋 Hi, I’m P4R451TE
 - 👀 I’m interested in Software Engineering, cybersecurity and creating collaborative inclusive worlds
 - 📫 Reach me @ tyjamesramblings@gmail.com
 
